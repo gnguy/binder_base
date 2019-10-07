@@ -1,0 +1,10 @@
+seaborn
+streamlit
+pandas
+scikit-learn
+xgboost
+jupyterlab
+keras
+altair
+cufflinks
+folium
