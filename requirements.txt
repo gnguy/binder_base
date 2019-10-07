@@ -8,3 +8,5 @@ keras
 altair
 cufflinks
 folium
+arrow
+pyarrow
