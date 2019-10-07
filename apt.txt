@@ -2,3 +2,12 @@ libudunits2-dev
 libgdal-dev
 libgeos-dev
 libproj-dev
+autoconf
+build-essential
+cmake
+libboost-dev
+libboost-filesystem-dev
+libboost-regex-dev
+libboost-system-dev
+bison
+flex
