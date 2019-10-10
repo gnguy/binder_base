@@ -3,7 +3,7 @@ streamlit
 pandas
 scikit-learn
 xgboost
-jupyterlab
+jupyterlab >= 1.0
 keras
 altair
 cufflinks
